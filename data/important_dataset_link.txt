@@ -1,0 +1,5 @@
+this file contains info related to the dataset and other misc activites
+audio dataset1: https://drive.google.com/drive/folders/1GKlvbU57g80-ofCOXGwatDD4U15tpJ4S
+audio dataset2:https://talkbank.org/dementia/
+images:https://www.kaggle.com/datasets/ninadaithal/imagesoasis/data
+CLINICAL DATASET1: https://ida.loni.usc.edu/explore/jsp/search_v2/search.jsp?project=ADNI
